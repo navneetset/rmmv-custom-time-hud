@@ -2,7 +2,7 @@
  * @target MZ
  * @plugindesc CustomTimeHUD: A simple time HUD for RPG Maker MZ
  * @author navneetset
- * @url https://
+ * @url https://github.com/navneetset/rmmv-custom-time-hud
  *
  * @param HUD X Position
  * @type number
